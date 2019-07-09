@@ -9,7 +9,7 @@
 * **Purpose:**
     * To establish familiarity with Test-Driven-Development (TDD) practices.
 * **Getting context:**
-	* Click [here]() to gain more familiarity with TDD-structured programming.
+	* Click [here](https://github.com/hbcustayready/MyFirstTDD/blob/master/README-TDDPatterns.md) to gain more familiarity with TDD-structured programming.
 
 ### CatTest
 * Create tests for `void setName(String name)`
